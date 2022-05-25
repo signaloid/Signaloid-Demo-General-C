@@ -5,4 +5,4 @@ SOURCES = \
 	main.c
 
 # Options that get passed to the C compiler
-CFLAGS = -DDEBUG
+#CFLAGS = -DDEBUG
