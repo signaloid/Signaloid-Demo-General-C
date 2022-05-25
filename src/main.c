@@ -8,15 +8,12 @@ main(int argc, char *  argv[])
 
 	a = libUncertainDoubleUniformDist(0.5, 1.0);
 	printf("a = %lf\n", a);
-	libUncertainDoublePrint(a);
 
 	b = libUncertainDoubleUniformDist(10.0, 20.0);
 	printf("b = %lf\n", b);
-	libUncertainDoublePrint(b);
 
 	c = (a+b)/(a-b);
 	printf("c = %lf\n", c);
-	libUncertainDoublePrint(c);
 
 #ifdef DEBUG
 	printf("debug message\n");
