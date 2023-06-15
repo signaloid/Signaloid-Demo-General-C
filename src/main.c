@@ -1,15 +1,15 @@
 #include <stdio.h>
-#include <uncertain.h>
+#include <uxhw.h>
 
 int
 main(int argc, char *  argv[])
 {
 	double	a, b, c;
 
-	a = libUncertainDoubleUniformDist(0.5, 1.0);
+	a = UxHwDoubleUniformDist(0.5, 1.0);
 	printf("a = %lf\n", a);
 
-	b = libUncertainDoubleUniformDist(10.0, 20.0);
+	b = UxHwDoubleUniformDist(10.0, 20.0);
 	printf("b = %lf\n", b);
 
 	c = (a+b)/(a-b);
