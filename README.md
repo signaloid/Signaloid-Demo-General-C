@@ -56,8 +56,8 @@ This first option makes it easiest for you (and other GitHub users) to run your 
 
 The text you need to change is (replacing the text `<your repository URL here>`):
 ```html
-[<img src="https://assets.signaloid.io/add-to-signaloid-cloud-logo-dark-v6.svg#gh-dark-mode-only" alt="[Add to signaloid.io]" height="30">](https://signaloid.io/repositories?connect=<your repository URL here>#gh-dark-mode-only)
-[<img src="https://assets.signaloid.io/add-to-signaloid-cloud-logo-light-v6.svg#gh-light-mode-only" alt="[Add to signaloid.io]" height="30">](https://signaloid.io/repositories?connect=<your repository URL here>#gh-light-mode-only)
+[<img src="https://assets.signaloid.io/add-to-signaloid-cloud-logo-dark-v6.svg#gh-dark-mode-only" alt="[Add to signaloid.io]" height="30">](https://signaloid.io/repositories?connect=https://github.com/Aragorn1992gb/Signaloid-Demo-General-C#gh-dark-mode-only)
+[<img src="https://assets.signaloid.io/add-to-signaloid-cloud-logo-light-v6.svg#gh-light-mode-only" alt="[Add to signaloid.io]" height="30">](https://signaloid.io/repositories?connect=https://github.com/Aragorn1992gb/Signaloid-Demo-General-C#gh-light-mode-only)
 ```
 
 Next, go to the repository's Github page and click on the “Add to signaloid.io” button.
