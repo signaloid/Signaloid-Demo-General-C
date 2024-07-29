@@ -46,7 +46,7 @@ During the build process, the Signaloid Cloud Developer Platform links the compi
 - `libm`: the C math library (with function prototypes and other definitions in `math.h`);
 - `UxHw`: a library that exposes functionalities of uncertainty-tracking computer architectures (with function prototypes and other definitions in `uxhw.h`).
 
-`UxHw` allows applications to access and inject uncertainty information into the underlying microarchitectures. You can find out more about `UxHw` in the [UxHw documentation](https://docs.signaloid.dev/).
+`UxHw` allows applications to access and inject uncertainty information into the underlying microarchitectures. You can find out more about `UxHw` in the [UxHw documentation](https://docs.signaloid.io/).
 
 ## 🍰 Accessing Your GitHub Repository from the Signaloid Cloud Developer Platform
 There are two ways to access a GitHub repository from the Signaloid Cloud Developer Platform.
