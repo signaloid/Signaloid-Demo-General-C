@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <uxhw.h>
 
+#define DEBUG  1
+
 int
 main(int argc, char *  argv[])
 {
@@ -16,7 +18,7 @@ main(int argc, char *  argv[])
 	printf("c = %lf\n", c);
 
 #ifdef DEBUG
-	printf("debug message\n");
+	printf(" Syed debug message\n");
 #endif
 
 	return 0;
